@@ -9,7 +9,7 @@ A very simple yet relaxing quiz to test your programming skills! You have 60 sec
 Most of the magic behind this application is Javascript and using DOM manipulation. There is a bit of basic CSS styling involve as well as local storage for high score displays.
 
 ## Deployed Application
-[Classic Coding Quiq]()
+[Classic Coding Quiz]()
 
 ## Screenshots
 
